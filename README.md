@@ -10,7 +10,7 @@ Feature 2
 Feature 3
 ## Installation
 
-git clone https://github.com/2Srong4them/ReactJS-portfolio-V1.git
-cd ReactJS-portfolio-V1
-npm install
+git clone https://github.com/2Srong4them/ReactJS-portfolio-V1.git<br>
+cd ReactJS-portfolio-V1<br>
+npm install<br>
 npm start
