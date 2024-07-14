@@ -9,8 +9,8 @@ Feature 1
 Feature 2
 Feature 3
 ## Installation
-'''bash
-git clone https://github.com/your-username/react-portfolio.git
-cd project-name
+
+git clone https://github.com/2Srong4them/ReactJS-portfolio-V1.git
+cd ReactJS-portfolio-V1
 npm install
 npm start
